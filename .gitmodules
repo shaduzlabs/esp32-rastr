@@ -1,0 +1,3 @@
+[submodule "rastr"]
+	path = rastr
+	url = https://github.com/shaduzlabs/rastr.git
