@@ -1,3 +1,1 @@
-set(COMPONENT_ADD_INCLUDEDIRS rastr/inc)
-
-register_component()
+idf_component_register(INCLUDE_DIRS rastr/inc)
